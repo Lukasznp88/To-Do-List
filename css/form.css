@@ -1,4 +1,6 @@
+
 .form {
+    padding: 20px;
     display: grid;
     grid-template-columns: 1fr auto;
     grid-gap: 20px;
@@ -20,7 +22,7 @@
     background-color: hsl(180, 100%, 25%);
     color: white;
     border: none;
-    transition: 0.3s;
+    transition: 0,3s;
 }
 
 .form__button:hover {
