@@ -1,5 +1,7 @@
 # To-Do-List
 
+![To-Do-List](images/website.gif)
+
 ## Demo
 
 https://lukasznp88.github.io/To-Do-List/
