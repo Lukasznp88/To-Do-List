@@ -7,7 +7,7 @@
     background-color: transparent;
     color: teal;
     border: none;
-    margin: 0 0 0 20px;
+    margin-left: 20px;
     transition: color 0.3s;
 }
 
